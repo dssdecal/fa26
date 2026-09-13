@@ -1,0 +1,66 @@
+.staffer {
+
+
+    display: flex;
+    margin-left: 10px;
+    margin-right: 5px;
+  
+    .staffer-image{
+      border-radius: 50%;
+      height: 85px;
+      margin-right: 18px;
+      transition: opacity 0.3s ease;
+    }
+  
+    .staffer-image::before {
+      content: '';
+      background-image: url('{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}');
+      background-size: cover;
+      background-position: center;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    
+    .staffer-image:hover::after {
+      opacity: 1;
+    }
+  
+    p{
+      margin: 5.4px;
+      width: 100%; 
+    }
+
+    .staffer-name {
+      margin: $sp-1 !important; 
+    }
+  
+    .staffer-pronouns {
+      @extend .label, .text-grey-dk-100, .bg-grey-lt-200; /* Just the Docs comes with many default labels, here we're customizing it to be gray */
+    }
+
+    .staffer-topics {
+      @extend .label, .text-grey-dk-100, .bg-grey-lt-200; /* Just the Docs comes with many default labels, here we're customizing it to be gray */
+    }
+  
+    .staffer-meta {
+      @extend .text-grey-dk-000;
+    }
+  
+    .staffer-bio {
+      font-size: 1em;
+    }
+  
+    .staffer-office-hours-front {
+      font-weight: normal; /* Ensure the whole paragraph is normal by default */
+    }
+    
+    .office-hours-label {
+      font-weight: bold; /* Make only the label bold */
+    }
+    
+  }

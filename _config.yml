@@ -1,0 +1,117 @@
+title: Data 198
+description: Introduction to Real World Data Science
+logo: assets/site_images/dsslogo.png
+author: Directors of Academic Development Fall 2025, Collin and Yara
+email: dss.data198@gmail.com
+theme: just-the-docs
+current_week: 0
+favicon: assets/site_images/favicon.ico
+#url: "https://dssdecal.org"
+baseurl: "/sp26"
+
+url: https://dssdecal.github.io # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
+html:
+  favicon                   : "assets/site_images/dss.png"  # A path to a favicon image
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.3.3
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links:
+  Textbook: 
+    - https://dssdecal.org/textbook
+  Syllabus: 
+    - https://docs.google.com/document/d/1jplpNcubSnn50iHd3-IHYnoghgeUT6orisJvtHzEjhM/edit?tab=t.0
+  Data Science Society at Berkeley:
+    - 'https://dssberkeley.org'
+  bCourses: 
+    - https://bcourses.berkeley.edu/courses/1544114
+
+links: 
+  lectures:
+    lecture01: "https://docs.google.com/presentation/d/1N2Csp5x65H2omWrNC35dJFxTdAiTNMWhLV2rUIXxVGY/edit?usp=sharing"
+    lecture02: "https://docs.google.com/presentation/d/1Zqm-7pGHpQ4PV0e1h-nmcTzxHBjeEfdnQ8byrEIP6ac/edit?usp=sharing"
+    lecture03: "https://docs.google.com/presentation/d/1zSwZYd4xFIWjoLDmj85nF52fIMqtms82TO6OJU3GMQ4/edit?usp=sharing"
+    lecture04: "https://docs.google.com/presentation/d/1450iCjaI-TujMT5_OtTw1skwbY73aY17I_f9R8R4uTo/edit?usp=sharing"
+    lecture05: "https://docs.google.com/presentation/d/1hk1Uv5_PsWuHu6R5VB8j949rGsGBfrDWf2m-Z5vzwtg/edit?usp=sharing"
+    lecture06: "https://docs.google.com/presentation/d/1fOzQ0DTKONs1byW2Wcyf9iLVn_EgnV4t99rUk0STvGk/edit?usp=sharing"
+    lecture07: "https://docs.google.com/presentation/d/13BFN8S3gK6ycA1iEBhFtzBBBjny20ipyXBAg9oC8nXI/edit?usp=sharing"
+  demos: 
+    demo01: "https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634"
+    demo02: "https://hub.ovh2.mybinder.org/user/dss-data198-demos-n98zi3r7/doc/tree/data_cleaning/Notebook.ipynb"
+    demo03: "https://www.google.com/url?q=https://shorturl.at/TExkv&sa=D&source=editors&ust=1729556860915882&usg=AOvVaw0nQGz8XC_vWOcHn2DgWCIB"
+    demo04: "https://deepnote.com/workspace/jakex-26b2579d-a0a9-4866-9a6e-9a76f523e999/project/Jake-Xiangs-Untitled-project-82de45cb-e433-41e9-b20c-61411c9da3ba/notebook/DSS-FA24-Hypothesis-Testing-44e9d2213a5c4a54a8910d88904f60b4"
+    demo05: "https://deepnote.com/workspace/ryans-workspace-1ba5-0c12a51c-2c5f-47ce-a403-8e829787a597/project/Basic-Machine-Learning-Models-0eb92a08-1222-4b3c-81be-312c63bd701b/notebook/dss-ml-9dede94526244b75a0dd8710525491b0"
+    demo06: "https://deepnote.com/workspace/ryans-workspace-1ba5-0c12a51c-2c5f-47ce-a403-8e829787a597/project/Basic-Machine-Learning-Models-0eb92a08-1222-4b3c-81be-312c63bd701b/notebook/dss-ml-9dede94526244b75a0dd8710525491b0"
+  readings: 
+    reading01: "https://ds100.org/course-notes/pandas_1/pandas_1.html"
+    reading02: "https://ds100.org/course-notes/pandas_2/pandas_2.html"
+    reading03: "https://ds100.org/course-notes/pandas_3/pandas_3.html"
+    reading04: "https://deepnote.com/app/rickyharyanto14-3390/Data-Cleansing-Study-Case-Telco-a8a54d4a-e82e-49f3-ab82-14ee2121c94b"
+  lightning: 
+    talk01: "https://docs.google.com/presentation/d/1mcyHE5bQJY2eRIo28vxuH9JREduxVmcvHIGUEcrt7Pk/edit?usp=sharing"
+    talk02: "https://docs.google.com/presentation/d/1kiG963T-ybbWlfVqGvltJj1060Kq8ukonW0emick0Ro/edit?usp=sharing"
+
+  
+
+# Collections for website data
+collections: 
+  acknowledgers:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+
+
+defaults: #Used to define the default settings for different collections or types of content
+  - scope: #Determines where the default settings should apply.
+      path: "" #The path where the default settings should apply to, if "" means it will apply globally to the specific type across the site
+      type: staffers #The specific collection
+    values: 
+      layout: staffer #which specific layout to use
+      subpath: "/assets/images/" #what's the default subpath for this file
+  - scope:
+      path: ""
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ""
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ""
+      type: announcements
+    values:
+      layout: announcement
+  - scope:
+      path: ""
+      type: acknowledgers
+    values:
+      layout: acknowledger
+      subpath: "/assets/images/"
+
+
+#After site is built, but before it is published!
+compress_html: #compresses HTML output, making the HTML files smaller, thus increasing performance of the website
+  clippings: all #all unnecessary parts or "cippings" of HTML are removed (redundant tags and the like)
+  comments: all #removes all comments
+  endings: all #remove optional closing tags (tags which don't need closing to still work)
+  startings: [] #no specific action to compress the beginning of HTML elements
+  blanklines: false #blank lines not removed, as they are valuable in reading code easily
+  profile: false #doesn't generate a profiling report
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown #specifies to use kramdown, a Ruby gem that parses markdowns and converts it to HTML
+kramdown:
+  input: GFM #Input is GitHub Flavored Markdown, so the same one that GitHub uses
+  hard_wrap: false #Single newlines in the Markdown will not translate into <br> tagsl, so empty lines just signify new <p>
+  enable_coderay: false #Doesn't enable CodeRay, a Ruby Gem syntax highlighter
+safe: false #Allows for the use of custom plugins and non-whitelisted Ruby gems in your Jekyll project
