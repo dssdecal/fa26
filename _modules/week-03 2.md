@@ -4,8 +4,9 @@ class: Berkeley
 status: Active
 ---
 
-Feb 22
-: **3**{: .label} Useful Libraries, Introduction to Pandas, Data Cleaning and Manipulation, Project Group Reveals! 🐼
+Sep 28
+: **3**{: .label} Data Visualization, Feature Engineering
+<!-- 
 : **Lecture**{: .label .label-lecture} <a href="https://docs.google.com/presentation/d/1KHaebOo3iU_PGJw6uLl0-Q4woVNTi87Yg_hvLGEP8d4/edit?usp=sharing" target="_blank">Slides</a>
 : **Textbook**{: .label .label-reading} <a href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Fupdatedtextbook&branch=main&urlpath=lab%2Ftree%2Fupdatedtextbook%2F02_Intro_to_Pandas.ipynb" target="_blank">Chapter 2 - Intro to Pandas</a>
 : **Resources**{: .label .label-resources} <a href = "https://docs.google.com/document/d/1R3HBGGpWBKN5RRNiMAbdEDeDY7PFZ6eq858dmRP78M4/edit?tab=t.0" target = "_blank">Project Timeline</a>

@@ -4,7 +4,7 @@ class: Berkeley
 status: Active
 ---
 
-Feb 16
-: **2**{: .label} No Lecture (President's Day) 
+Sep 21
+: **2**{: .label} Intro to Pandas, Data Cleaning, EDA 
 
 <!-- : **Checkpoint**{: .label .label-checkpoint} **Project Checkpoint 1 (Due 10/07)** -->

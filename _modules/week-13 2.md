@@ -4,8 +4,8 @@ class: Berkeley
 status: Active
 ---
 
-Nov 23
-: **12**{: .label} No Lecture (Thanksgiving Break) 
+Nov 30
+: **13**{: .label} Symposium II
 <!-- : **Lecture**{: .label .label-lecture} Mini Announcements -->
 
 <!-- May 2 -->
