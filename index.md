@@ -8,7 +8,7 @@ permalink: index.html
 
 # Data 198: Introduction to Real World Data Science <img style = "width: 45px; margin-left: 15px; vertical-align: top;" src = "assets/site_images/dsslogopng.png">
 
-## UC Berkeley, Spring 2026
+## UC Berkeley, Fall 2026
 
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
