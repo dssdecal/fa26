@@ -6,7 +6,7 @@ Students open labs from the course schedule using **Open Lab 01 in DataHub**. Do
 
 The released files live together in `lab01/`: `Lab01.ipynb`, `club_event_survey.csv`, `requirements.txt`, and `tests/lab01/q*.py`. The source notebook was copied from the separate authoring folder without changing its reviewed content.
 
-The launcher URL is configured at `links.labs.lab01` in `_config.yml` and displayed in `_modules/week-02 2.md`. It uses nbgitpuller to pull the public `dssdecal/fa26` repository's `main` branch into the student's general Berkeley DataHub account, then opens `fa26/lab_notebooks/lab01/Lab01.ipynb` in JupyterLab. The CSV and tests arrive automatically. Students run the notebook from top to bottom and use its Otter checks. Submission remains the bCourses process described in the notebook.
+The launcher URL is configured at `links.labs.lab01` in `_config.yml` and displayed in `_modules/week-02 2.md`. It uses nbgitpuller to pull the public `dssdecal/fa26` repository's `main` branch into the student's general Berkeley DataHub account, then opens `fa26/lab_notebooks/lab01/Lab01.ipynb` in the single-notebook interface (using `urlpath=tree/...`, rather than `lab/tree/...`). The CSV and tests arrive automatically. Students run the notebook from top to bottom and use its Otter checks. Submission remains the bCourses process described in the notebook.
 
 DataHub's published base environment currently specifies Otter 6.1.6 and pandas 3.0.0. The lab requirements accept those versions; nbgitpuller does not install requirements. If a particular server cannot import pandas or Otter, staff should check its kernel/environment before asking students to install packages.
 
