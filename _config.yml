@@ -36,7 +36,7 @@ links:
     lab01: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab01%2FLab01.ipynb"
   lectures:
     lecture01: "https://docs.google.com/presentation/d/1N2Csp5x65H2omWrNC35dJFxTdAiTNMWhLV2rUIXxVGY/edit?usp=sharing"
-    lecture02: "https://docs.google.com/presentation/d/1Zqm-7pGHpQ4PV0e1h-nmcTzxHBjeEfdnQ8byrEIP6ac/edit?usp=sharing"
+    lecture02: "https://docs.google.com/presentation/d/1GzRIXJAmuPbH_R-FS4kXAM4f72d2YIoffLk_U_5i9iI/edit?usp=sharing"
     lecture03: "https://docs.google.com/presentation/d/1zSwZYd4xFIWjoLDmj85nF52fIMqtms82TO6OJU3GMQ4/edit?usp=sharing"
     lecture04: "https://docs.google.com/presentation/d/1450iCjaI-TujMT5_OtTw1skwbY73aY17I_f9R8R4uTo/edit?usp=sharing"
     lecture05: "https://docs.google.com/presentation/d/1hk1Uv5_PsWuHu6R5VB8j949rGsGBfrDWf2m-Z5vzwtg/edit?usp=sharing"
@@ -50,13 +50,14 @@ links:
     demo05: "https://deepnote.com/workspace/ryans-workspace-1ba5-0c12a51c-2c5f-47ce-a403-8e829787a597/project/Basic-Machine-Learning-Models-0eb92a08-1222-4b3c-81be-312c63bd701b/notebook/dss-ml-9dede94526244b75a0dd8710525491b0"
     demo06: "https://deepnote.com/workspace/ryans-workspace-1ba5-0c12a51c-2c5f-47ce-a403-8e829787a597/project/Basic-Machine-Learning-Models-0eb92a08-1222-4b3c-81be-312c63bd701b/notebook/dss-ml-9dede94526244b75a0dd8710525491b0"
   readings: 
+    week02: "https://github.com/dssdecal/updatedtextbook/blob/main/02_Intro_to_Pandas.ipynb"
     reading01: "https://ds100.org/course-notes/pandas_1/pandas_1.html"
     reading02: "https://ds100.org/course-notes/pandas_2/pandas_2.html"
     reading03: "https://ds100.org/course-notes/pandas_3/pandas_3.html"
     reading04: "https://deepnote.com/app/rickyharyanto14-3390/Data-Cleansing-Study-Case-Telco-a8a54d4a-e82e-49f3-ab82-14ee2121c94b"
   lightning: 
     talk01: "https://docs.google.com/presentation/d/1mcyHE5bQJY2eRIo28vxuH9JREduxVmcvHIGUEcrt7Pk/edit?usp=sharing"
-    talk02: "https://docs.google.com/presentation/d/1kiG963T-ybbWlfVqGvltJj1060Kq8ukonW0emick0Ro/edit?usp=sharing"
+    talk02: "https://docs.google.com/presentation/d/1ZhaF7JK2MatDxHv6KsTFnzgHTqJIZAnoNDT6-fxNv3I/edit?usp=sharing"
 
   
 
