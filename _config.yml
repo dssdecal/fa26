@@ -32,6 +32,8 @@ aux_links:
     - https://bcourses.berkeley.edu/courses/1544114
 
 links: 
+  labs:
+    lab01: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=lab%2Ftree%2Ffa26%2Flab_notebooks%2Flab01%2FLab01.ipynb"
   lectures:
     lecture01: "https://docs.google.com/presentation/d/1N2Csp5x65H2omWrNC35dJFxTdAiTNMWhLV2rUIXxVGY/edit?usp=sharing"
     lecture02: "https://docs.google.com/presentation/d/1Zqm-7pGHpQ4PV0e1h-nmcTzxHBjeEfdnQ8byrEIP6ac/edit?usp=sharing"
