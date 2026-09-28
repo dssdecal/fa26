@@ -34,10 +34,11 @@ aux_links:
 links: 
   labs:
     lab01: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab01%2FLab01.ipynb"
+    lab02: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab02%2FLab02.ipynb"
   lectures:
     lecture01: "https://docs.google.com/presentation/d/1N2Csp5x65H2omWrNC35dJFxTdAiTNMWhLV2rUIXxVGY/edit?usp=sharing"
     lecture02: "https://docs.google.com/presentation/d/1GzRIXJAmuPbH_R-FS4kXAM4f72d2YIoffLk_U_5i9iI/edit?usp=sharing"
-    lecture03: "https://docs.google.com/presentation/d/1zSwZYd4xFIWjoLDmj85nF52fIMqtms82TO6OJU3GMQ4/edit?usp=sharing"
+    lecture03: "https://docs.google.com/presentation/d/1IWwCgexlHHAWgNrNidqEMroH0_6bNJborW6LXFZG4d8/edit?usp=sharing"
     lecture04: "https://docs.google.com/presentation/d/1450iCjaI-TujMT5_OtTw1skwbY73aY17I_f9R8R4uTo/edit?usp=sharing"
     lecture05: "https://docs.google.com/presentation/d/1hk1Uv5_PsWuHu6R5VB8j949rGsGBfrDWf2m-Z5vzwtg/edit?usp=sharing"
     lecture06: "https://docs.google.com/presentation/d/1fOzQ0DTKONs1byW2Wcyf9iLVn_EgnV4t99rUk0STvGk/edit?usp=sharing"
@@ -51,6 +52,7 @@ links:
     demo06: "https://deepnote.com/workspace/ryans-workspace-1ba5-0c12a51c-2c5f-47ce-a403-8e829787a597/project/Basic-Machine-Learning-Models-0eb92a08-1222-4b3c-81be-312c63bd701b/notebook/dss-ml-9dede94526244b75a0dd8710525491b0"
   readings: 
     week02: "https://github.com/dssdecal/updatedtextbook/blob/main/02_Intro_to_Pandas.ipynb"
+    week03: "https://github.com/dssdecal/updatedtextbook/blob/main/03_EDA_%26_Data_Visualization.ipynb"
     reading01: "https://ds100.org/course-notes/pandas_1/pandas_1.html"
     reading02: "https://ds100.org/course-notes/pandas_2/pandas_2.html"
     reading03: "https://ds100.org/course-notes/pandas_3/pandas_3.html"

@@ -1,0 +1,49 @@
+date,space,occupancy_pct,noise_db,study_minutes,focus_rating,outlets
+2026-01-12,Library,53,39.0,45,3,True
+2026-01-12,Cafe,46,59.0,75,2,True
+2026-01-12,Lounge,59,54.0,81,3,True
+2026-01-12,Quiet room,36,37.0,111,3,True
+2026-01-19,Library,61,43.0,99,3,True
+2026-01-19,Cafe,54,63.0,129,2,False
+2026-01-19,Lounge,49,,45,2,True
+2026-01-19,Quiet room,44,31.0,75,4,True
+2026-01-26,Library,69,47.0,63,3,True
+2026-01-26,Cafe,44,57.0,93,2,False
+2026-01-26,Lounge,57,52.0,99,3,True
+2026-01-26,Quiet room,52,35.0,129,4,True
+2026-02-02,Library,59,42.0,117,3,True
+2026-02-02,Cafe,52,62.0,57,2,True
+2026-02-02,Lounge,65,57.0,63,3,True
+2026-02-02,Quiet room,42,40.0,93,3,True
+2026-02-09,Library,67,46.0,81,3,True
+2026-02-09,Cafe,60,66.0,111,2,False
+2026-02-09,Lounge,55,51.0,117,2,True
+2026-02-09,Quiet room,50,,57,4,True
+2026-02-16,Library,75,40.0,45,3,True
+2026-02-16,Cafe,50,60.0,75,2,False
+2026-02-16,Lounge,63,55.0,81,2,True
+2026-02-16,Quiet room,58,38.0,111,4,True
+2026-02-23,Library,65,45.0,99,2,True
+2026-02-23,Cafe,58,65.0,129,2,True
+2026-02-23,Lounge,71,60.0,45,2,True
+2026-02-23,Quiet room,48,33.0,75,3,True
+2026-03-02,Library,73,49.0,63,3,True
+2026-03-02,Cafe,66,59.0,93,3,False
+2026-03-02,Lounge,61,54.0,99,2,True
+2026-03-02,Quiet room,56,37.0,129,3,True
+2026-03-09,Library,81,43.0,117,3,True
+2026-03-09,Cafe,56,,57,2,False
+2026-03-09,Lounge,69,58.0,63,2,True
+2026-03-09,Quiet room,64,41.0,93,3,True
+2026-03-16,Library,71,48.0,81,2,True
+2026-03-16,Cafe,64,68.0,111,2,True
+2026-03-16,Lounge,77,53.0,117,3,True
+2026-03-16,Quiet room,54,36.0,57,3,True
+2026-03-23,Library,79,42.0,45,3,True
+2026-03-23,Cafe,72,62.0,75,2,False
+2026-03-23,Lounge,67,57.0,81,2,True
+2026-03-23,Quiet room,62,40.0,111,3,True
+2026-03-30,Library,87,46.0,99,3,True
+2026-03-30,Cafe,62,66.0,129,2,False
+2026-03-30,Lounge,75,61.0,45,2,True
+2026-03-30,Quiet room,70,34.0,75,4,True

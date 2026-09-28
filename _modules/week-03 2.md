@@ -5,10 +5,8 @@ status: Active
 ---
 
 Sep 28
-: **3**{: .label} Data Visualization, Feature Engineering
-
-
-
-<!-- : **Checkpoint**{: .label .label-checkpoint} **Project Checkpoint 1 (Due 10/07)** -->
-<!-- : **Resources**{: .label .label-resources}<a href = "{{site.links.readings.reading04}}" target = "_blank"> Data Cleaning Deepnote</a> -->
-<!-- : **Checkpoint**{: .label .label-checkpoint} **Project Checkpoint 2 (Due 10/14)** -->
+: **3**{: .label} Data Visualization, Feature Engineering and Selection
+: **Lecture**{: .label .label-lecture} <a href="{{ site.links.lectures.lecture03 | escape }}" target="_blank" rel="noopener">Slides</a>
+: **Textbook**{: .label .label-reading} <a href="{{ site.links.readings.week03 | escape }}" target="_blank" rel="noopener">Data Visualization, Feature Engineering, and Selection</a>
+: **Lab**{: .label .label-lab} <a href="{{ site.links.labs.lab02 | escape }}" target="_blank" rel="noopener">Lab 02: Data Visualization, Feature Engineering, and Selection</a>
+: **Lightning Talk**{: .label .label-demos} Navigating Berkeley - Collin
