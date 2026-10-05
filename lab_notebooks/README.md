@@ -14,6 +14,12 @@ The Week 3 release lives in `lab02/`: `Lab02.ipynb`, `study_sessions.csv`, `requ
 
 The launcher URL is configured at `links.labs.lab02` in `_config.yml` and displayed in `_modules/week-03 2.md`. It uses the same nbgitpuller workflow as Lab 01 and opens `fa26/lab_notebooks/lab02/Lab02.ipynb` with the CSV and tests beside it.
 
+## Lab 03
+
+The Week 4 release lives in `lab03/`: `Lab03.ipynb`, `house_prices.csv`, `requirements.txt`, and `tests/lab03/q*.py`. Five public Otter checks cover Q2–Q6; the plot and written interpretations are reviewed separately.
+
+The launcher URL is configured at `links.labs.lab03` in `_config.yml` and displayed in `_modules/week-04 2.md`. It opens `fa26/lab_notebooks/lab03/Lab03.ipynb` with its data and tests beside it. The lab is due Monday, October 12 at 5:00 PM.
+
 DataHub's published base environment currently specifies Otter 6.1.6 and pandas 3.0.0. The lab requirements accept those versions; nbgitpuller does not install requirements. If a particular server cannot import pandas or Otter, staff should check its kernel/environment before asking students to install packages.
 
 ## Release checks
@@ -21,7 +27,7 @@ DataHub's published base environment currently specifies Otter 6.1.6 and pandas 
 1. Keep the notebook, CSV, and tests in the same relative layout. Clear student answer cells and execution outputs before release. Keep instructor solutions outside this repository: nbgitpuller pulls the entire repository.
 2. Run a completed copy outside the public repository. Confirm each `grader.check(...)` and the final `grader.check_all()` pass.
 3. Commit and push the lab files and schedule link together. GitHub Actions builds and publishes the website on pushes to `main`.
-4. Follow the link from the published Week 2 schedule in a signed-in DataHub session. Run setup, verify CSV loading, and check an exercise before announcing release.
+4. Follow the lab link from the published schedule in a signed-in DataHub session. Run setup, verify CSV loading, and check an exercise before announcing release.
 5. Once students have started, avoid unnecessary restructuring or renaming of notebook cells/files.
 
 ## How Data 8 and Data 100 compare

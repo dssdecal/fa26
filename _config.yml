@@ -37,6 +37,7 @@ links:
   labs:
     lab01: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab01%2FLab01.ipynb"
     lab02: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab02%2FLab02.ipynb"
+    lab03: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab03%2FLab03.ipynb"
   lectures:
     lecture01: "https://docs.google.com/presentation/d/1N2Csp5x65H2omWrNC35dJFxTdAiTNMWhLV2rUIXxVGY/edit?usp=sharing"
     lecture02: "https://docs.google.com/presentation/d/1GzRIXJAmuPbH_R-FS4kXAM4f72d2YIoffLk_U_5i9iI/edit?usp=sharing"
@@ -55,6 +56,7 @@ links:
   readings: 
     week02: "https://github.com/dssdecal/updatedtextbook/blob/main/02_Intro_to_Pandas.ipynb"
     week03: "https://github.com/dssdecal/updatedtextbook/blob/main/03_EDA_%26_Data_Visualization.ipynb"
+    week04: "https://github.com/dssdecal/updatedtextbook/blob/main/04_ML_Foundations.ipynb"
     reading01: "https://ds100.org/course-notes/pandas_1/pandas_1.html"
     reading02: "https://ds100.org/course-notes/pandas_2/pandas_2.html"
     reading03: "https://ds100.org/course-notes/pandas_3/pandas_3.html"
