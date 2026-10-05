@@ -4,7 +4,7 @@ logo: assets/site_images/dsslogo.png
 author: Directors of Academic Development Fall 2026, Aniruthan and Sameer
 email: dss.data198@gmail.com
 theme: just-the-docs
-current_week: 0
+current_week: 4
 favicon: assets/site_images/favicon.ico
 #url: "https://dssdecal.org"
 baseurl: "/fa26"
@@ -34,6 +34,7 @@ aux_links:
 links: 
   checkpoints:
     checkpoint01: "https://docs.google.com/document/d/1mSICYYRD6nSmzf-y3-0mcEiPynYerFtvyl_OfJUKh5o/edit?usp=sharing"
+    checkpoint01_submission: "https://forms.gle/1dWoHDXXE1qqFhVT6"
   labs:
     lab01: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab01%2FLab01.ipynb"
     lab02: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab02%2FLab02.ipynb"
