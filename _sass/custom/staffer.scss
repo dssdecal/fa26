@@ -8,6 +8,10 @@
     .staffer-image{
       border-radius: 50%;
       height: 85px;
+      width: 85px;
+      object-fit: cover;
+      object-position: center;
+      flex-shrink: 0;
       margin-right: 18px;
       transition: opacity 0.3s ease;
     }
