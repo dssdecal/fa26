@@ -27,7 +27,9 @@ Say HELLO to your Fall 2025 Academic Development Committee!
 
 <div id = "staff-page" class="role flex">
 {% for staffer in sorted_director_by_order %}
+{% unless staffer.path contains '/retired/' %}
 {{ staffer }}
+{% endunless %}
 {% endfor %}
 </div>
 
@@ -38,7 +40,9 @@ Say HELLO to your Fall 2025 Academic Development Committee!
 
 <div id="staff-page" class="role flex">
 {% for staffer in sorted_lead_tas_by_order %}
+{% unless staffer.path contains '/retired/' %}
   {{ staffer }}
+{% endunless %}
 {% endfor %}
 </div>
 
@@ -49,7 +53,9 @@ Say HELLO to your Fall 2025 Academic Development Committee!
 
 <div id="staff-page" class="role flex">
 {% for staffer in sorted_ta_by_order %}
+{% unless staffer.path contains '/retired/' %}
 {{ staffer }}
+{% endunless %}
 {% endfor %}
 </div>
 
@@ -59,6 +65,8 @@ Say HELLO to your Fall 2025 Academic Development Committee!
 
 <div id="staff-page" class="role flex">
 {% for staffer in tutors %}
+{% unless staffer.path contains '/retired/' %}
 {{ staffer }}
+{% endunless %}
 {% endfor %}
 </div>
