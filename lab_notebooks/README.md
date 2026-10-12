@@ -22,6 +22,12 @@ The launcher URL is configured at `links.labs.lab03` in `_config.yml` and displa
 
 DataHub's published base environment currently specifies Otter 6.1.6 and pandas 3.0.0. The lab requirements accept those versions; nbgitpuller does not install requirements. If a particular server cannot import pandas or Otter, staff should check its kernel/environment before asking students to install packages.
 
+## Lab 04
+
+The Week 5 release lives in `lab04/`: `Lab04.ipynb`, `tips.csv`, `requirements.txt`, and `tests/lab04/q*.py`. Nine public Otter checks cover Q2–Q8 and Q10–Q11; plots and written responses are reviewed separately. The local CSV avoids relying on an internet download when students first run the notebook.
+
+The launcher URL is configured at `links.labs.lab04` in `_config.yml` and displayed in `_modules/week-05 2.md`. It opens `fa26/lab_notebooks/lab04/Lab04.ipynb` with its data and tests beside it. The lab is due Monday, October 12 at 5:00 PM.
+
 ## Release checks
 
 1. Keep the notebook, CSV, and tests in the same relative layout. Clear student answer cells and execution outputs before release. Keep instructor solutions outside this repository: nbgitpuller pulls the entire repository.
