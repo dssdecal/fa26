@@ -2,9 +2,9 @@
 email: bo.wang@berkeley.edu
 name: Bo Wang
 photo: staff/bo.jpg
-bio:  Hey everyone! I'm Bo, a sophomore majoring in Data Science and Applied Math. I was born in the Greater Tokyo Area and also spent a good chunk of my life living in China. This is my first semester being a tutor for the DeCal, and I'm really excited to meet everyone!
-role: Tutor
-linkedin: https://www.linkedin.com/in/bo-wang-35647b285/
+bio: Hey guys! I'm Bo, a junior studying data science. This is my third semester on the Academic Development committee and I'll be a lead TA this semester. Outside of class I enjoy watching and playing soccer, sleeping, eating all sorts of food, watching movies and TV shows, listening to music, and hanging out with friends. Looking forward to great semester with everybody!
+role: Lead TA
+linkedin: https://www.linkedin.com/in/bowang1002
 # hover-photo: staff_hovers/alan_hover.jpeg
-pronouns:  Natural Language Processing (NLP)
+pronouns: recommendation systems
 ---
