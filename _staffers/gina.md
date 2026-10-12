@@ -1,7 +1,7 @@
 ---
 email: kimgina@berkeley.edu
 name: Gina Kim
-photo: staff/gina.jpg
+photo: staff/gina-2026.jpg
 bio: Hi! I’m Gina, a senior studying applied math and data science. I’m from San Diego, CA, and this is my third semester on the acadev committee but I originally took the decal! I love doom scrolling, taking naps, baking, and going to concerts. Can’t wait to get to know everyone!
 role: TA
 linkedin: https://www.linkedin.com/in/ginakim05/

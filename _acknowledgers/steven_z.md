@@ -4,6 +4,6 @@ photo: /acknowledgers/steven.png
 role: instructor
 linkedin: https://www.linkedin.com/in/zengsteven/
 pronouns: Spring 2024
-bio: Steven will graduate in 2026 as a Data Science and Environmental Science major. He's from Texas and loves hikes, photography, and going to the gym.
+bio: Steven graduated in 2026 with degrees in Data Science and Environmental Science. He's from Texas and loves hiking, photography, and going to the gym.
 website: https://stevenzengdp.com/
 ---

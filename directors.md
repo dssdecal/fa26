@@ -27,6 +27,20 @@ Ever wondered who the previous Directors of Academic Development were? Here they
 {% assign instructors = site.acknowledgers | where: 'role', 'instructor' %}
 
 <div class="role flex">
+{% assign spring2026 = site.acknowledgers | where: 'pronouns', 'Spring 2026' %}
+  {% for acknowledger in spring2026 %}
+    {{ acknowledger }}
+  {% endfor %}
+</div>
+
+<div class="role flex">
+{% assign fall2025 = site.acknowledgers | where: 'pronouns', 'Fall 2025' %}
+  {% for acknowledger in fall2025 %}
+    {{ acknowledger }}
+  {% endfor %}
+</div>
+
+<div class="role flex">
 {% assign spring2025 = site.acknowledgers | where: 'pronouns', 'Spring 2025' %}
   {% for acknowledger in spring2025 %}
     {{ acknowledger }}
