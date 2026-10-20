@@ -28,6 +28,12 @@ The Week 5 release lives in `lab04/`: `Lab04.ipynb`, `tips.csv`, `requirements.t
 
 The launcher URL is configured at `links.labs.lab04` in `_config.yml` and displayed in `_modules/week-05 2.md`. It opens `fa26/lab_notebooks/lab04/Lab04.ipynb` with its data and tests beside it. The lab is due Monday, October 12 at 5:00 PM.
 
+## Lab 05
+
+The Week 6 release lives in `lab05/`: `Lab05.ipynb`, `campus_orders.csv`, `requirements.txt`, and `tests/lab05/q*.py`. Six public Otter checks cover the code exercises Q1–Q3 and Q5–Q7; written explanations and the optional ROC curve are reviewed separately. The included synthetic CSV keeps the lab reproducible and avoids an external data dependency.
+
+The launcher URL is configured at `links.labs.lab05` in `_config.yml` and displayed in `_modules/week-06 2.md`. It opens `fa26/lab_notebooks/lab05/Lab05.ipynb` with its data and tests beside it. The lab is due Monday, October 26 at 5:00 PM.
+
 ## Release checks
 
 1. Keep the notebook, CSV, and tests in the same relative layout. Clear student answer cells and execution outputs before release. Keep instructor solutions outside this repository: nbgitpuller pulls the entire repository.

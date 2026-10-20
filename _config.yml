@@ -4,7 +4,7 @@ logo: assets/site_images/dsslogo.png
 author: Directors of Academic Development Fall 2026, Aniruthan and Sameer
 email: dss.data198@gmail.com
 theme: just-the-docs
-current_week: 5
+current_week: 6
 favicon: assets/site_images/favicon.ico
 #url: "https://dssdecal.org"
 baseurl: "/fa26"
@@ -42,13 +42,14 @@ links:
     lab02: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab02%2FLab02.ipynb"
     lab03: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab03%2FLab03.ipynb"
     lab04: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab04%2FLab04.ipynb"
+    lab05: "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdssdecal%2Ffa26&branch=main&urlpath=tree%2Ffa26%2Flab_notebooks%2Flab05%2FLab05.ipynb"
   lectures:
     lecture01: "https://docs.google.com/presentation/d/1N2Csp5x65H2omWrNC35dJFxTdAiTNMWhLV2rUIXxVGY/edit?usp=sharing"
     lecture02: "https://docs.google.com/presentation/d/1GzRIXJAmuPbH_R-FS4kXAM4f72d2YIoffLk_U_5i9iI/edit?usp=sharing"
     lecture03: "https://docs.google.com/presentation/d/1IWwCgexlHHAWgNrNidqEMroH0_6bNJborW6LXFZG4d8/edit?usp=sharing"
     lecture04: "https://docs.google.com/presentation/d/1qysafQL34AnOBddu5SosuZsc72YjEfV4_lkiaIQpxJ4/edit?usp=sharing"
     lecture05: "https://docs.google.com/presentation/d/1QX09s_XjQqONz0JL1PTXYBYfkVUkasl-G_2gyT4i0CA/edit?usp=sharing"
-    lecture06: "https://docs.google.com/presentation/d/1fOzQ0DTKONs1byW2Wcyf9iLVn_EgnV4t99rUk0STvGk/edit?usp=sharing"
+    lecture06: "https://docs.google.com/presentation/d/1NuXsoiGyNnl-KpLwC3guoOr2cEtlZZWV_YoMc7evAvo/edit?usp=sharing"
     lecture07: "https://docs.google.com/presentation/d/13BFN8S3gK6ycA1iEBhFtzBBBjny20ipyXBAg9oC8nXI/edit?usp=sharing"
   demos: 
     demo01: "https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634"
@@ -62,6 +63,7 @@ links:
     week03: "https://github.com/dssdecal/updatedtextbook/blob/main/03_EDA_%26_Data_Visualization.ipynb"
     week04: "https://github.com/dssdecal/updatedtextbook/blob/main/04_ML_Foundations.ipynb"
     week05: "https://github.com/dssdecal/updatedtextbook/blob/main/05_Supervised_Learning_Linear_Logistic_Trees.ipynb"
+    week06: "https://github.com/dssdecal/updatedtextbook/blob/main/06_Model_Evaluation.ipynb"
     reading01: "https://ds100.org/course-notes/pandas_1/pandas_1.html"
     reading02: "https://ds100.org/course-notes/pandas_2/pandas_2.html"
     reading03: "https://ds100.org/course-notes/pandas_3/pandas_3.html"
