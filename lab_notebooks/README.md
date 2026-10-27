@@ -34,6 +34,12 @@ The Week 6 release lives in `lab05/`: `Lab05.ipynb`, `campus_orders.csv`, `requi
 
 The launcher URL is configured at `links.labs.lab05` in `_config.yml` and displayed in `_modules/week-06 2.md`. It opens `fa26/lab_notebooks/lab05/Lab05.ipynb` with its data and tests beside it. The lab is due Monday, October 26 at 5:00 PM.
 
+## Lab 06
+
+The Week 7 release lives in `lab06/`: `Lab06.ipynb`, `listener_profiles.csv`, `requirements.txt`, and `tests/lab06/q*.py`. Six public Otter checks cover Q2–Q7 (distance assignments, centroid updates, inertia, cluster summaries, explained variance, and PCA projection). Written interpretations are reviewed separately. The supplied synthetic listener dataset is included locally. The lab intentionally clusters raw weekly hours; its discussion explains scaling choices.
+
+The launcher URL is configured at `links.labs.lab06` in `_config.yml` and displayed in `_modules/week-07.md`. It opens `fa26/lab_notebooks/lab06/Lab06.ipynb` with the CSV and tests beside it. The lab is due Monday, November 2 at 5:00 PM. The legacy `06_ML_&_Modeling_II_Lab_Notebook.ipynb` covers supervised tree models and is not the Week 7 release.
+
 ## Release checks
 
 1. Keep the notebook, CSV, and tests in the same relative layout. Clear student answer cells and execution outputs before release. Keep instructor solutions outside this repository: nbgitpuller pulls the entire repository.
