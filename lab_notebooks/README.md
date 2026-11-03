@@ -40,6 +40,14 @@ The Week 7 release lives in `lab06/`: `Lab06.ipynb`, `listener_profiles.csv`, `r
 
 The launcher URL is configured at `links.labs.lab06` in `_config.yml` and displayed in `_modules/week-07.md`. It opens `fa26/lab_notebooks/lab06/Lab06.ipynb` with the CSV and tests beside it. The lab is due Monday, November 2 at 5:00 PM. The legacy `06_ML_&_Modeling_II_Lab_Notebook.ipynb` covers supervised tree models and is not the Week 7 release.
 
+## Lab 07
+
+The Week 8 release lives in `lab07/`: `Lab07.ipynb`, `requirements.txt`, and `tests/lab07/q*.py`. The supplied notebook was adapted to the Modern Machine Learning lecture. Six public Otter checks cover Q1–Q6: pixel preparation, stratified splits, MLP architecture, training, validation-based selection, and final evaluation. Q7 and other written responses are reviewed separately. The optional extensions connect learned image embeddings to PCA, NLP, transformers, and CNNs.
+
+The scikit-learn digits dataset is bundled with the library; no CSV or dataset download is needed. PyTorch runs on CPU with one thread. nbgitpuller does not install dependencies; the setup cell includes an installation line if the selected kernel lacks PyTorch or Otter.
+
+The launcher is configured at `links.labs.lab07` in `_config.yml` and displayed in `_modules/week-08.md`. It opens `fa26/lab_notebooks/lab07/Lab07.ipynb` with its tests beside it. The lab is due Monday, November 9 at 5:00 PM. The legacy `07_ML_&_Modeling_III_Lab.ipynb` is not this release.
+
 ## Release checks
 
 1. Keep the notebook, CSV, and tests in the same relative layout. Clear student answer cells and execution outputs before release. Keep instructor solutions outside this repository: nbgitpuller pulls the entire repository.
