@@ -23,7 +23,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Textbook: 
-    - https://dssdecal.org/textbook
+    - https://dssdecal.org/textbook/
   Syllabus: 
     - https://docs.google.com/document/d/1_Msr2K1AmB_kJdyClwLdAjmqAN_0EB8ppw6Erj5Cq14/edit?usp=sharing
   Data Science Society at Berkeley:
@@ -63,13 +63,13 @@ links:
     demo05: "https://deepnote.com/workspace/ryans-workspace-1ba5-0c12a51c-2c5f-47ce-a403-8e829787a597/project/Basic-Machine-Learning-Models-0eb92a08-1222-4b3c-81be-312c63bd701b/notebook/dss-ml-9dede94526244b75a0dd8710525491b0"
     demo06: "https://deepnote.com/workspace/ryans-workspace-1ba5-0c12a51c-2c5f-47ce-a403-8e829787a597/project/Basic-Machine-Learning-Models-0eb92a08-1222-4b3c-81be-312c63bd701b/notebook/dss-ml-9dede94526244b75a0dd8710525491b0"
   readings: 
-    week02: "https://github.com/dssdecal/updatedtextbook/blob/main/02_Intro_to_Pandas.ipynb"
-    week03: "https://github.com/dssdecal/updatedtextbook/blob/main/03_EDA_%26_Data_Visualization.ipynb"
-    week04: "https://github.com/dssdecal/updatedtextbook/blob/main/04_ML_Foundations.ipynb"
-    week05: "https://github.com/dssdecal/updatedtextbook/blob/main/05_Supervised_Learning_Linear_Logistic_Trees.ipynb"
-    week06: "https://github.com/dssdecal/updatedtextbook/blob/main/06_Model_Evaluation.ipynb"
-    week07: "https://github.com/dssdecal/updatedtextbook/blob/main/07_Unsupervised_Learning.ipynb"
-    week08: "https://github.com/dssdecal/updatedtextbook/blob/main/08_Modern_Machine_Learning.ipynb"
+    week02: "https://dssdecal.org/textbook/chapters/fa26/pandas-cleaning-and-eda.html"
+    week03: "https://dssdecal.org/textbook/chapters/fa26/visualization-and-features.html"
+    week04: "https://dssdecal.org/textbook/chapters/fa26/ml-foundations.html"
+    week05: "https://dssdecal.org/textbook/chapters/fa26/supervised-learning.html"
+    week06: "https://dssdecal.org/textbook/chapters/fa26/model-evaluation.html"
+    week07: "https://dssdecal.org/textbook/chapters/fa26/unsupervised-learning.html"
+    week08: "https://dssdecal.org/textbook/chapters/fa26/modern-machine-learning.html"
     reading01: "https://ds100.org/course-notes/pandas_1/pandas_1.html"
     reading02: "https://ds100.org/course-notes/pandas_2/pandas_2.html"
     reading03: "https://ds100.org/course-notes/pandas_3/pandas_3.html"
