@@ -48,6 +48,14 @@ The scikit-learn digits dataset is bundled with the library; no CSV or dataset d
 
 The launcher is configured at `links.labs.lab07` in `_config.yml` and displayed in `_modules/week-08.md`. It opens `fa26/lab_notebooks/lab07/Lab07.ipynb` with its tests beside it. The lab is due Monday, November 9 at 5:00 PM. The legacy `07_ML_&_Modeling_III_Lab.ipynb` is not this release.
 
+## Lab 08
+
+The Week 9 release lives in `lab08/`: `Lab08.ipynb`, `dining.csv`, `dining_documents.json`, `requirements.txt`, and `tests/lab08/q*.py`. Five public Otter checks cover Q1–Q3 and Q5–Q6: inspection, TF-IDF retrieval, prompt construction, grouped statistics, and rating validation. Q4 and Q7 audit illustrative answers and an agent trace; written responses are reviewed separately.
+
+The required 60–90 minute lab uses local synthetic data and authored answer examples. It needs no LLM API key, model download, or paid account. An optional chatbot experiment uses the printed prompt. The required work implements retrieval and prompt construction, not a live generator or autonomous agent.
+
+The launcher is configured at `links.labs.lab08` in `_config.yml` and displayed in `_modules/week-09.md`. It opens `fa26/lab_notebooks/lab08/Lab08.ipynb` with its data and tests beside it. The lab is due Monday, November 16, 2026 at 5:00 PM (Pacific).
+
 ## Release checks
 
 1. Keep the notebook, CSV, and tests in the same relative layout. Clear student answer cells and execution outputs before release. Keep instructor solutions outside this repository: nbgitpuller pulls the entire repository.

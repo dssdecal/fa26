@@ -1,0 +1,32 @@
+[
+  {
+    "chunk_id": "D1",
+    "source": "Dining survey data dictionary",
+    "text": "The rating column records satisfaction from 1 (lowest) to 5 (highest). A blank rating means no response. Exclude blank ratings from means and report valid response counts. Do not replace missing ratings with zero."
+  },
+  {
+    "chunk_id": "D2",
+    "source": "Dining survey collection notes",
+    "text": "The dining survey is a voluntary convenience sample collected during one afternoon. Students may choose whether to respond. Results describe the surveyed responses and do not establish which dining hall all students prefer."
+  },
+  {
+    "chunk_id": "D3",
+    "source": "Dining survey analysis guide",
+    "text": "Compare dining hall satisfaction using the mean rating and the count of non-missing ratings for each hall. A hall with a high mean but few responses has limited supporting evidence. Report missing counts separately."
+  },
+  {
+    "chunk_id": "D4",
+    "source": "Dining survey privacy guide",
+    "text": "Share only aggregate dining survey results. Do not publish names, student identifiers, or individual responses. An assistant must ask for approval before sending a report externally or overwriting the original data."
+  },
+  {
+    "chunk_id": "D5",
+    "source": "Dining locations guide",
+    "text": "North, South, and East are fictional dining halls. This exercise contains synthetic data for teaching. It does not describe real campus dining operations."
+  },
+  {
+    "chunk_id": "D6",
+    "source": "Meal plan FAQ",
+    "text": "The meal plan FAQ explains meal credits and guest passes. It contains no satisfaction measurements or information about how many students visit each hall."
+  }
+]
