@@ -5,7 +5,7 @@ status: Active
 ---
 
 Nov 23
-: **12**{: .label} No Lecture (Thanksgiving Break) 
+: **11**{: .label} No Lecture (Thanksgiving Break)
 <!-- : **Lecture**{: .label .label-lecture} Mini Announcements -->
 
 <!-- May 2 -->

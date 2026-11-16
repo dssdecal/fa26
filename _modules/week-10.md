@@ -5,5 +5,5 @@ status: Active
 ---
 
 Nov 16
-: **11**{: .label} Symposium I
+: **10**{: .label} Project Work Week
 <!-- : **Lecture**{: .label .label-lecture} Mini Announcements -->

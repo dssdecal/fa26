@@ -5,7 +5,7 @@ status: Active
 ---
 
 Nov 30
-: **13**{: .label} Symposium II
+: **12**{: .label} Symposium
 <!-- : **Lecture**{: .label .label-lecture} Mini Announcements -->
 
 <!-- May 2 -->
